@@ -1,0 +1,82 @@
+# File-Stamps (Kategorien), die in bezug auf mein OMS eine definierte Funktion haben.
+
+# todo
+# aktuell lese ich die Stamps in einer hardkodierten Reihenfolge aus
+# Irgendwann soll es in genau der Reihenfolge, wie sie hier vorliegt, ausgelesen werden.
+# Deswegen sortiere ich sie bereits jetzt entsprechend
+
+functionStamps:
+ - °bundle
+ - °checklist
+ - °list
+ - °lookups
+ - °template # Hier steht die Funktion im Vordergrund, nicht der "content"
+ - °Text
+ - °todos
+ - °todo
+ - °tools
+ - °tool
+
+contentStamps: 
+ - °@
+ - °account
+ - °book
+ - °example
+ - °glossary
+ - °invoice
+ - °logo
+ - °poem
+ - °receipt
+ - °snippet # Hier geht es um den Inhalt, nicht um Funktion
+ - °song
+ - °utils
+ - °video 
+
+# Kategorien, die ein Thema umfassen, welches für mich von Bedeutung ist.
+topicStamps:
+ - °nowadays # _files
+ - °21C
+ - °cli
+ - °css
+ - °dv
+ - °dom
+ - °git
+ - °json
+ - °js
+ - °keys    # roundabout Keys, Keyboard and Mouse, incl. Hardware
+ - °living  # It's about **how** not about "what" (content). => OMS
+ - °lnx
+ - °njs 
+ - °npm
+ - °obs
+ - °obsapi
+ - °oms
+ - °plasma
+ - °plasma (steht erst einmal auch allgemein für Desktop)
+ - °rx
+ - °svelte
+ - °svg
+ - °vsc
+ - °xml
+ - °xsl
+ - °yaml
+
+xStamps: 
+ - °hw
+ - °sw
+ - °ActivePresenter
+ - °Gimp
+ - °Grav
+ - °Inkscape
+ - °Quokka
+ - °Sketchup
+ - °win
+
+privateStamps: 
+ - °belongings
+ - °dough
+ - °exercise
+ - °health
+ - °life
+ - °me
+ 
