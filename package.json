@@ -1,0 +1,11 @@
+{
+    "name": "filestamps",
+	"version": "2.0.0",
+    "keywords": ["Obsidian", "Organization-Management-System"],
+    "repository": "github :: amolipdotnet/FileStamps",
+    "homepage": "https://amolip.net",
+    "dependencies": {
+        "getDateTime": "1.0.0",
+        "yaml": "^2.3.4"
+    }
+}

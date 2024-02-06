@@ -1,0 +1,18 @@
+# root: "/home/amolip/topics"
+root: "/home/amolip/playground/FileStamps"
+
+# project_folder: "/home/amolip/playground/FileStamps"
+# node_modules = project_folder/node_modules/…
+
+
+output_folder: "/home/amolip/playground/FileStamps"
+# output_folder: "/home/amolip/topics"
+
+# config_data ≙ "./config.yaml" same directory as "FilesStamps.js"
+
+
+stamp_file: "/home/amolip/playground/FileStamps/FileStamps.yaml"
+# stamp_file: "/home/amolip/topics/OMS/FileStamps.yaml"
+
+
+exclude: ^\.|^node_modules|^_utils # RegEx-Pattern as string, no flags here (no need for)
